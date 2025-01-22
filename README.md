@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akul Sadananda Sherigara</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akul-sada&label=Profile%20views&color=0e75b6&style=flat" alt="akul-sada" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Todo App](https://github.com/Akul-sada/todoApp.git)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on [club-collaboration-frontend](https://github.com/iiitv/club-collaboration-frontend)
 
-- 🤝 I’m looking for help with [Narayan Snacks Parlour](https://github.com/Akul-sada/narayan-sandwich)
+- 🤝 I’m looking for help with [Pheonix](hilarious-biscuit.netlify.app)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Golang**
 
 - 📫 How to reach me **sadananda.sherigara@gmail.com**
 
